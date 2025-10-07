@@ -6,6 +6,13 @@
 **Date:** October 2025  
 
 ---
+## 🧾 Author
+**Name:** Shayan Pourahmad  
+**Student ID:** 101474651  
+**Email:** shayan.pourahmadd@gmail.com  
+**GitHub:** [https://github.com/Shayanqw](https://github.com/Shayanqw)
+
+---
 
 ## 📘 Project Overview
 This project demonstrates a simple **Node.js + Express.js** application integrated with **MongoDB Atlas** for COMP3123 (Fullstack JavaScript).  
@@ -189,13 +196,7 @@ All screenshots are in the `/screenshots` folder:
 
 ---
 
-## 🧾 Author
-**Name:** Shayan Pourahmad  
-**Student ID:** 101474651  
-**Email:** shayan.pourahmad@gmail.com  
-**GitHub:** [https://github.com/Shayanqw](https://github.com/Shayanqw)
 
----
 
 ## 🏁 Status
 ✅ Completed and tested successfully.  
