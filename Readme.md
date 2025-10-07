@@ -193,7 +193,7 @@ All screenshots are in the `/screenshots` folder:
 **Name:** Shayan Pourahmad  
 **Student ID:** 101474651  
 **Email:** shayan.pourahmad@gmail.com  
-**GitHub:** [https://github.com/<your-username>](https://github.com/<your-username>)
+**GitHub:** [https://github.com/Shayanqw](https://github.com/Shayanqw)
 
 ---
 
