@@ -1,0 +1,24 @@
+{
+    "id":1,
+    "name":"Shayan Pourahmad",
+    "username":"Shayan",
+    "password":"@Shayan1379",
+    "email":"shayan.pourahmad@gmail.com",
+    "address":{
+       "street":"Spadina St",
+       "suite":"Apt. 195",
+       "city":"Toronto",
+       "zipcode":"M6H-3H1",
+       "geo":{
+          "lat":"-37.3159",
+          "lng":"81.1496"
+       }
+    },
+    "phone":"1-770-736-8031 x56442",
+    "website":"www.ScriptOrbit.com",
+    "company":{
+       "name":"Romaguera-Crona",
+       "catchPhrase":"Multi-layered client-server neural-net",
+       "bs":"harness real-time e-markets"
+    }
+ }
